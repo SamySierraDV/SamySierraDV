@@ -16,5 +16,4 @@ Profesional en Ingeniería de Sistemas (en curso, Universidad Central - Sede Bog
 
 **Especialista en arquitecturas escalables** con Spring Boot + Vaadin. Desarrollo sistemas empresariales robustos usando **MVC, REST APIs** y bases de datos H2/MongoDB. Fullstack con **HTML5, CSS responsive, JavaScript** + **Python/Laravel** para prototipos rápidos.
 
-**💬 Colaborador ágil** - Entrego proyectos a tiempo trabajando en equipo con comunicación efectiva y metodologías ágiles.Fun fact: ...
--->
+**💬 Colaborador ágil** - Entrego proyectos a tiempo trabajando en equipo con comunicación efectiva y metodologías ágiles.
