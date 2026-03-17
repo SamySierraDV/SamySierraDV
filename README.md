@@ -1,7 +1,7 @@
 
 # Hello! I am Samy Sierra
 
-Profesional en Ingeniería de Sistemas (en curso, Universidad Central - Sede Bogotá), con título homologado en Ingeniería de Software y formación tecnológica en Técnicas de Ventas (graduado, SENA ). Poseo 2 años y 6 meses de experiencia en desarrollo backend y full-stack, especializándome en arquitecturas escalables y sistemas empresariales. Domino Java con Spring Boot y Vaadin, JavaScript, HTML, CSS (diseño responsive), Python, APIs REST y bases de datos relacionales/no relacionales (PostgreSQL, MongoDB). Certificado en ONE Oracle Next Education + Alura Latam (326 horas, marzo 2026).
+Profesional en Ingeniería de Sistemas (en curso, Universidad Central - Sede Bogotá), con título homologado en Ingeniería de Software y formación tecnológica en Técnicas de Ventas (graduado, SENA ). Poseo +2 años de experiencia en desarrollo backend y full-stack, especializándome en arquitecturas escalables y sistemas empresariales. Domino Java con Spring Boot y Vaadin, JavaScript, HTML, CSS (diseño responsive), Python, APIs REST y bases de datos relacionales/no relacionales (PostgreSQL, MongoDB). Certificado en ONE Oracle Next Education + Alura Latam (326 horas, marzo 2026).
 
 
 ## Habilidades
