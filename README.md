@@ -17,3 +17,30 @@ Profesional en Ingeniería de Sistemas (en curso, Universidad Central - Sede Bog
 **Especialista en arquitecturas escalables** con Spring Boot + Vaadin. Desarrollo sistemas empresariales robustos usando **MVC, REST APIs** y bases de datos H2/MongoDB. Fullstack con **HTML5, CSS responsive, JavaScript** + **Python/Laravel** para prototipos rápidos.
 
 **💬 Colaborador ágil** - Entrego proyectos a tiempo trabajando en equipo con comunicación efectiva y metodologías ágiles.
+
+## 🔥 Proyectos Destacados
+
+### 💼 **Sistema Nómina Empresarial** ⭐
+**[Repo](https://github.com/tuusuario/nomina-spring-vaadin)**  
+**Spring Boot + Vaadin + H2** - Automatiza salarios/devengados para **100+ empleados/mes**.  
+**Reducción 80% tiempo cálculos** | Reportes PDF/Excel | APIs REST seguras.
+
+### 🏢 **Dashboard Vaadin + MongoDB**
+**[Demo](https://tuapp.herokuapp.com)**  
+Gestión estudiantes/profesores. **Responsive** | Charts interactivos | Autenticación JWT.
+
+### ⚡ **API REST Laravel + Python**
+Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
+
+## 📈 Estadísticas GitHub
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+## 🎯 Buscando
+- **Backend Java/Spring** (remoto Bogotá)
+- Proyectos open-source colaboración
+- Mentores senior Java/Arquitectura
+
+**¡Hablemos de código!** 🚀
+
+---
+*Última actualización: Marzo 2026*
