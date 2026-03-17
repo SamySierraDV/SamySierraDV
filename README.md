@@ -33,8 +33,7 @@ Gestión estudiantes/profesores. **Responsive** | Charts interactivos | Autentic
 Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 
 ## 📈 Estadísticas GitHub
-![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamySierraDV&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 ## 🎯 Buscando
 - **Backend Java/Spring** (remoto Bogotá)
 - Proyectos open-source colaboración
