@@ -1,8 +1,18 @@
 
 # Hello! I am Samy Sierra
+Profesional con formación en Ingeniería de Sistemas, actualmente cursando el pregrado en Ingeniería de Sistemas en la Universidad Central (Sede Bogotá). Mi base académic una sólida formación tecnológica previa en Técnicas de Ventas, obtenida en el Servicio Nacional de Aprendizaje (SENA). Esta combinación me proporciona una perspectiva integral que abarca desde el desarrollo técnico riguroso hasta la comprensión de procesos empresariales y la comunicación efectiva.
 
-Profesional en Ingeniería de Sistemas (en curso, Universidad Central - Sede Bogotá), con título homologado en Ingeniería de Software y formación tecnológica en Técnicas de Ventas (graduado, SENA ). Poseo +2 años de experiencia en desarrollo backend y full-stack, especializándome en arquitecturas escalables y sistemas empresariales. Domino Java con Spring Boot y Vaadin, JavaScript, HTML, CSS (diseño responsive), Python, APIs REST y bases de datos relacionales/no relacionales (PostgreSQL, MongoDB). Certificado en ONE Oracle Next Education + Alura Latam (326 horas, marzo 2026).
+## Experiencia Técnica Especializada
 
+Poseo una experiencia consolidada de más de dos años en roles de desarrollo de software, abarcando tanto el backend como el full-stack. Mi expertise se centra en el diseño e implementación de arquitecturas de software altamente escalables y resilientes, fundamentales para operar sistemas empresariales de misión crítica y alto rendimiento.
+
+## Dominio Tecnológico y Herramientas
+Lenguajes y Frameworks: Dominio avanzado de Java, utilizando extensivamente el framework Spring Boot para el desarrollo de microservicios y aplicaciones empresariales robustas. Experiencia en desarrollo frontend con Vaadin, lo que me permite construir interfaces de usuario complejas y modernas. Fuerte competencia en JavaScript, HTML5 y CSS3, con especial atención a la implementación de diseño responsive y optimización de la experiencia de usuario (UX). Conocimiento práctico de Python para tareas de automatización y procesamiento de datos.
+APIs y Comunicación: Amplia experiencia en el diseño, desarrollo y consumo de APIs RESTful, asegurando una comunicación eficiente y segura entre servicios.
+Bases de Datos: Manejo experto de sistemas de gestión de bases de datos relacionales (SQL), destacando PostgreSQL. Además, tengo experiencia en el trabajo con bases de datos no relacionales (NoSQL), específicamente MongoDB, para escenarios que requieren flexibilidad y escalabilidad de datos.
+Formación Complementaria y Certificaciones
+
+Mi compromiso con la actualización constante se evidencia con la reciente certificación obtenida a través del programa ONE (Oracle Next Education) en colaboración con Alura Latam, que culminó en marzo de 2026. Esta formación intensiva y especializada de 326 horas ha reforzado mis conocimientos en las últimas tendencias y metodologías de desarrollo de software.
 
 ## Habilidades
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
