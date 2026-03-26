@@ -10,8 +10,8 @@ Poseo una experiencia consolidada de más de dos años en roles de desarrollo de
 Lenguajes y Frameworks: Dominio avanzado de Java, utilizando extensivamente el framework Spring Boot para el desarrollo de microservicios y aplicaciones empresariales robustas. Experiencia en desarrollo frontend con Vaadin, lo que me permite construir interfaces de usuario complejas y modernas. Fuerte competencia en JavaScript, HTML5 y CSS3, con especial atención a la implementación de diseño responsive y optimización de la experiencia de usuario (UX). Conocimiento práctico de Python para tareas de automatización y procesamiento de datos.
 APIs y Comunicación: Amplia experiencia en el diseño, desarrollo y consumo de APIs RESTful, asegurando una comunicación eficiente y segura entre servicios.
 Bases de Datos: Manejo experto de sistemas de gestión de bases de datos relacionales (SQL), destacando PostgreSQL. Además, tengo experiencia en el trabajo con bases de datos no relacionales (NoSQL), específicamente MongoDB, para escenarios que requieren flexibilidad y escalabilidad de datos.
-Formación Complementaria y Certificaciones
 
+## Formación Complementaria y Certificaciones
 Mi compromiso con la actualización constante se evidencia con la reciente certificación obtenida a través del programa ONE (Oracle Next Education) en colaboración con Alura Latam, que culminó en marzo de 2026. Esta formación intensiva y especializada de 326 horas ha reforzado mis conocimientos en las últimas tendencias y metodologías de desarrollo de software.
 
 ## Habilidades
