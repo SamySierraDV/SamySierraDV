@@ -1,6 +1,6 @@
 
 # Hello! I am Samy Sierra
-Profesional con formación en Ingeniería de Sistemas, actualmente cursando el pregrado en Ingeniería de Sistemas en la Universidad Central (Sede Bogotá). Mi base académic una sólida formación tecnológica previa en Técnicas de Ventas, obtenida en el Servicio Nacional de Aprendizaje (SENA). Esta combinación me proporciona una perspectiva integral que abarca desde el desarrollo técnico riguroso hasta la comprensión de procesos empresariales y la comunicación efectiva.
+Profesional con formación en Ingeniería de Sistemas, actualmente cursando el pregrado en Ingeniería de Sistemas en la Universidad Central (Sede Bogotá). Mi base académica una sólida formación tecnológica previa en Técnicas de Ventas, obtenida en el Servicio Nacional de Aprendizaje (SENA). Esta combinación me proporciona una perspectiva integral que abarca desde el desarrollo técnico riguroso hasta la comprensión de procesos empresariales y la comunicación efectiva.
 
 ## Experiencia Técnica Especializada
 
