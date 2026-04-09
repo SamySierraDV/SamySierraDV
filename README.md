@@ -19,9 +19,12 @@ Mi compromiso con la actualización constante se evidencia con la reciente certi
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Vaadin](https://img.shields.io/badge/Vaadin-007ACC?style=for-the-badge&logo=vaadin&logoColor=white)](https://vaadin.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Laravel](https://img.shields.io/badge/Laravel-DD0031?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+	![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 **Especialista en arquitecturas escalables** con Spring Boot + Vaadin. Desarrollo sistemas empresariales robustos usando **MVC, REST APIs** y bases de datos H2/MongoDB. Fullstack con **HTML5, CSS responsive, JavaScript** + **Python/Laravel** para prototipos rápidos.
