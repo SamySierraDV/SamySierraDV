@@ -49,7 +49,7 @@ Características Principales
 Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 
 ## 📈 Estadísticas GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamySierraDV&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamySierraDV)](https://git.io/streak-stats)
 ## 🎯 Buscando
 - **Backend Java/Spring** (remoto Bogotá)
 - Proyectos open-source colaboración
@@ -58,4 +58,4 @@ Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 **¡Hablemos de código!** 🚀
 
 ---
-*Última actualización: Marzo 2026*
+*Última actualización: Abril 2026*
