@@ -35,9 +35,15 @@ Mi compromiso con la actualización constante se evidencia con la reciente certi
 **Spring Boot + Vaadin + H2** - Automatiza salarios/devengados para **100+ empleados/mes**.  
 **Reducción 80% tiempo cálculos** | Reportes PDF/Excel | APIs REST seguras.
 
-### 🏢 **Dashboard Vaadin + MongoDB**
-**[Demo](https://tuapp.herokuapp.com)**  
-Gestión estudiantes/profesores. **Responsive** | Charts interactivos | Autenticación JWT.
+### 🏢 *📦 Sistema de Gestión de Inventarios (Inventory Management System) Vaadin + MongoDB**
+**[Demo](https://drive.google.com/file/d/1Jj_F61ZkpoAZk0AydAcqblcf-Ybs0su7/view?usp=drive_link)**  
+Sistema integral desarrollado para la optimización y control de existencias, diseñado bajo una arquitectura robusta y escalable que permite la gestión eficiente de productos, proveedores y movimientos de inventario.
+Características Principales
+- Gestión CRUD Completa: Control total sobre productos, categorías y proveedores.
+- Control de Stock en Tiempo Real: Seguimiento automatizado de entradas y salidas de mercancía.
+- Arquitectura Profesional: Implementación basada en el patrón de diseño MVC (Modelo-Vista-Controlador) y DAO (Data Access Object) para asegurar la separación de responsabilidades y facilidad de mantenimiento.
+- Monitoreo Avanzado: Integración de Spring Boot Actuator para el seguimiento de métricas, salud del sistema y rendimiento en tiempo real.
+- Interfaz de Usuario Moderna: Desarrollada con Vaadin, ofreciendo una experiencia de usuario (UX) fluida y profesional directamente desde Java.
 
 ### ⚡ **API REST Laravel + Python**
 Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
