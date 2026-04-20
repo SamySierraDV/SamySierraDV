@@ -33,15 +33,30 @@ Mi compromiso con la actualización constante se evidencia con la reciente certi
 
 ## 🔥 Proyectos Destacados
 
+### 📚 LiterAlura — Catálogo Interactivo de Libros
+**[Repo](https://github.com/SamySierraDV/AluraLatam-Litealura)**
+**Java 17 + Spring Boot + Spring Data + PostgreSQL + Jackson**
+Catálogo de libros por consola que consume la API Gutendex en tiempo real.
+
+**Funcionalidades:**
+- 🔍 Búsqueda de libros por título vía API externa
+- 💾 Persistencia con Spring Data JPA + PostgreSQL
+- 📋 7 opciones de interacción: listar, filtrar por idioma/año/autor
+- 🌍 Filtrado por idioma y estadísticas de colección
+- 👥 Listado de autores únicos y vivos por período
+- ⚙️ Parseo JSON con Jackson | Arquitectura MVC limpia
+
+**Challenge Oracle Next Education (ONE) G9 — Alura Latam**
+
 ### 💱 Conversor de Monedas — Challenge ONE
-**[Repo](https://github.com/samysierradv/challenge-conversor-monedas)**
+**[Repo](https://github.com/SamySierraDV/AluraLatam-Conversor-de-monedas.git)**
 **Java 17 + HttpClient + JSON** — Conversión en tiempo real USD ↔ ARS, BRL, COP.
 Historial exportado a JSON | Consumo de API externa | Challenge Oracle Next Education.
 
 ---
 
 ### 💬 Foro Alura — API REST
-**[Repo](https://github.com/samysierradv/foro-alura)**
+**[Repo](https://github.com/SamySierraDV/AluraLatam-ForoHub-Challenge-Alura.git)**
 **Spring Boot + Spring Security + JWT + MySQL** — CRUD completo de tópicos con autenticación.
 BCrypt passwords | Token JWT | Flyway migrations | Challenge ONE G9 Backend.
 
