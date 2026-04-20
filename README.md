@@ -33,6 +33,23 @@ Mi compromiso con la actualización constante se evidencia con la reciente certi
 
 ## 🔥 Proyectos Destacados
 
+### 💱 Conversor de Monedas — Challenge ONE
+**[Repo](https://github.com/samysierradv/challenge-conversor-monedas)**
+**Java 17 + HttpClient + JSON** — Conversión en tiempo real USD ↔ ARS, BRL, COP.
+Historial exportado a JSON | Consumo de API externa | Challenge Oracle Next Education.
+
+---
+
+### 💬 Foro Alura — API REST
+**[Repo](https://github.com/samysierradv/foro-alura)**
+**Spring Boot + Spring Security + JWT + MySQL** — CRUD completo de tópicos con autenticación.
+BCrypt passwords | Token JWT | Flyway migrations | Challenge ONE G9 Backend.
+
+### 🌐 Batatabit — Landing Page
+**[Demo](https://samysierradv.github.io/BatatabitProyect/)**
+**HTML5 + CSS3 — Mobile First** — Landing de exchange de criptomonedas.
+Diseño responsive | CSS variables | HTML semántico | Desplegado en GitHub Pages.
+
 ### 💼 **Sistema Nómina Empresarial** ⭐
 **[Repo](https://github.com/tuusuario/nomina-spring-vaadin)**  
 **Spring Boot + Vaadin + H2** - Automatiza salarios/devengados para **100+ empleados/mes**.  
@@ -51,6 +68,7 @@ Características Principales
 ### ⚡ **API REST Laravel + Python**
 Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 
+---
 ## 📈 Estadísticas GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamySierraDV)](https://git.io/streak-stats)
 ## 🎯 Buscando
