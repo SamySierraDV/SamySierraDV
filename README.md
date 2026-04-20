@@ -53,12 +53,16 @@ Catálogo de libros por consola que consume la API Gutendex en tiempo real.
 **Java 17 + HttpClient + JSON** — Conversión en tiempo real USD ↔ ARS, BRL, COP.
 Historial exportado a JSON | Consumo de API externa | Challenge Oracle Next Education.
 
----
-
 ### 💬 Foro Alura — API REST
 **[Repo](https://github.com/SamySierraDV/AluraLatam-ForoHub-Challenge-Alura.git)**
 **Spring Boot + Spring Security + JWT + MySQL** — CRUD completo de tópicos con autenticación.
 BCrypt passwords | Token JWT | Flyway migrations | Challenge ONE G9 Backend.
+
+### 🎡 Juego de Amigo Secreto
+**[Demo](https://samysierradv.github.io/Juego-Amigo-Secreto-JS/)**
+· **[Repo](https://github.com/SamySierraDV/Juego-Amigo-Secreto-JS)**
+**Vanilla JS + Canvas 2D + CSS3** — Ruleta animada con easing suave para sorteos grupales.
+Sin dependencias | Responsive | Validaciones | Colores dinámicos | Challenge ONE Alura Latam.
 
 ### 🌐 Batatabit — Landing Page
 **[Demo](https://samysierradv.github.io/BatatabitProyect/)**
