@@ -90,12 +90,13 @@ Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 ---
 ## 📈 Estadísticas GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamySierraDV)](https://git.io/streak-stats)
-## 🎯 Buscando
-- **Backend Java/Spring** (remoto Bogotá)
-- Proyectos open-source colaboración
-- Mentores senior Java/Arquitectura
-
+## 🎯 Posibles Roles
+Java Backend Developer / Spring Boot Engineer — Experiencia directa en producción con Spring Boot, Vaadin, REST API y SOLID.
+Software Engineer (Mid-Senior) — 3 años con métricas reales (-90% errores, +40% eficiencia).
+Backend Engineer en Fintech / HRTech.
+Java Full Stack Developer — Dominas backend + React/Vaadin para frontend.
+Desarrollador de Microservicios — Microservicios, REST API y Git.
+Technical Lead Junior — Experiencia documentando +20 requerimientos y liderando módulos completos de desrollo.
 **¡Hablemos de código!** 🚀
-
 ---
 *Última actualización: Abril 2026*
