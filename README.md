@@ -27,7 +27,7 @@ Mi compromiso con la actualización constante se evidencia con la reciente certi
 	![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-**Especialista en arquitecturas escalables** con Spring Boot + Vaadin. Desarrollo sistemas empresariales robustos usando **MVC, REST APIs** y bases de datos H2/MongoDB. Fullstack con **HTML5, CSS responsive, JavaScript** + **Python/Laravel** para prototipos rápidos.
+**Especialista en arquitecturas escalables** con Spring Boot + Vaadin. Desarrollo sistemas empresariales robustos usando **MVC, REST APIs** y bases de datos relacionales Mysql, PostgreSQL y no relacioneles H2/MongoDB. Fullstack con **HTML5, CSS responsive, JavaScript** + **Python/Flask** para prototipos rápidos.
 
 **💬 Colaborador ágil** - Entrego proyectos a tiempo trabajando en equipo con comunicación efectiva y metodologías ágiles.
 
