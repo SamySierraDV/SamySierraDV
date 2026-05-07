@@ -35,7 +35,7 @@ Mi compromiso con la actualización constante se evidencia con la reciente certi
 
 ### 📚 LiterAlura — Catálogo Interactivo de Libros
 **[Repo](https://github.com/SamySierraDV/AluraLatam-Litealura)**
-**Java 17 + Spring Boot + Spring Data + PostgreSQL + Jackson**
+**Java 17 + Spring Boot + Spring Data + PostgreSQL + Json**
 Catálogo de libros por consola que consume la API Gutendex en tiempo real.
 
 **Funcionalidades:**
