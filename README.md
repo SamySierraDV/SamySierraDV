@@ -94,4 +94,4 @@ Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 
 **¡Hablemos de código!** 🚀
 ---
-*Última actualización: Mayo 2026*
+*Última actualización: Mayo 10 2026*
