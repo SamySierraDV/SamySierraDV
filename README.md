@@ -24,7 +24,7 @@ Mi compromiso con la actualización constante se evidencia con la reciente certi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-	![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 **Especialista en arquitecturas escalables** con Spring Boot + Vaadin. Desarrollo sistemas empresariales robustos usando **MVC, REST APIs** y bases de datos relacionales Mysql, PostgreSQL y no relacioneles H2/MongoDB. Fullstack con **HTML5, CSS responsive, JavaScript** + **Python/Flask** para prototipos rápidos.
@@ -71,7 +71,7 @@ Diseño responsive | CSS variables | HTML semántico | Desplegado en GitHub Page
 
 ### 💼 **Sistema Nómina Empresarial** ⭐
 **[Repo](https://github.com/tuusuario/nomina-spring-vaadin)**  
-**Spring Boot + Vaadin + H2** - Automatiza salarios/devengados para **100+ empleados/mes**.  
+**Spring Boot + Vaadin + MongoDB** - Automatiza salarios/devengados para **100+ empleados/mes**.  
 **Reducción 80% tiempo cálculos** | Reportes PDF/Excel | APIs REST seguras.
 
 ### 🏢 *📦 Sistema de Gestión de Inventarios (Inventory Management System) Vaadin + MongoDB**
