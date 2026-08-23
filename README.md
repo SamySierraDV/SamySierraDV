@@ -89,7 +89,7 @@ Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 
 ---
 ## 📈 Estadísticas GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=SamySierraDV)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SamySierraDV" alt="GitHub Streak" /></a>
 
 **¡Hablemos de código!** 🚀
 ---
