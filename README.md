@@ -89,8 +89,7 @@ Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
 
 ---
 ## 📈 Estadísticas GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamySierraDV)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamySierraDV)](https://git.io/streak-stats)
 
 **¡Hablemos de código!** 🚀
 ---
