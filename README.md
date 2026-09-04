@@ -1,5 +1,5 @@
 # Hello! I am Samy Sierra 👋
-**Desarrollador Fullstack / Backend Java & Integración de IA**[cite: 1]
+**Desarrollador Fullstack / Backend Java & Integración de IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-sierra-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sssamyandres@gmail.com)
@@ -34,7 +34,7 @@ Profesional con formación en **Ingeniería de Sistemas** (7.º semestre en la U
 ## 🔥 Proyectos Destacados
 
 ### 🧠 TechMind / LogiCore — Plataforma SaaS de Conocimiento e IA 🏆
-**[Repo en GitHub](https://github.com/No-Country-simulation/-TechMind-Organizacion-Inteligente-del-Conocimiento-Tecnico-Team-13/tree/main) | [Demo en YouTube](https://youtu.be/iZzVtcGQqBE)**[cite: 1]  
+**[Repo en GitHub](https://github.com/No-Country-simulation/-TechMind-Organizacion-Inteligente-del-Conocimiento-Tecnico-Team-13/tree/main) | [Demo en YouTube](https://youtu.be/iZzVtcGQqBE)**
 **Spring Boot 3 + Vaadin 24 + Python (FastAPI) + PostgreSQL (Supabase) + Flyway**  
 Plataforma SaaS híbrida impulsada por Inteligencia Artificial diseñada para la estructuración y documentación inteligente de proyectos técnicos mediante grafos y flujos conversacionales.
 - 🏆 **Top 21 Finalista** en la Hackathon Oracle ONE + Alura + NoCountry (Team 13 | 130 horas de desarrollo).
@@ -46,7 +46,7 @@ Plataforma SaaS híbrida impulsada por Inteligencia Artificial diseñada para la
 
 ### 💼 Sistema de Nómina Empresarial ⭐
 **[Repo en GitHub](https://github.com/tuusuario/nomina-spring-vaadin)**  
-**Spring Boot + Vaadin + MongoDB**[cite: 1]  
+**Spring Boot + Vaadin + MongoDB**
 Automatiza salarios, devengados y deducciones para **100+ empleados/mes**
 - 🚀 **Reducción del 60%** en el tiempo de procesamiento manual de nóminas.
 - 📊 Generación automatizada de reportes en PDF/Excel e integración de APIs REST seguras.
