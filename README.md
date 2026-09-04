@@ -1,96 +1,102 @@
+# Hello! I am Samy Sierra 👋
+**Desarrollador Fullstack / Backend Java & Integración de IA**
 
-# Hello! I am Samy Sierra
-Profesional con formación en Ingeniería de Sistemas, actualmente cursando el pregrado en Ingeniería de Sistemas en la Universidad Central (Sede Bogotá). Mi base académica una sólida formación tecnológica previa en Técnicas de Ventas, obtenida en el Servicio Nacional de Aprendizaje (SENA). Esta combinación me proporciona una perspectiva integral que abarca desde el desarrollo técnico riguroso hasta la comprensión de procesos empresariales y la comunicación efectiva.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-sierra-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sssamyandres@gmail.com)
+[![OCI Certified](https://img.shields.io/badge/Oracle_Cloud-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AFEB050E9CCCBF94D6BD62BAFDDBB02FD61D42623A6F1959AF03477E21D34D84)
 
-## Experiencia Técnica Especializada
+Profesional con formación en **Ingeniería de Sistemas** (7.º semestre en la Universidad Central, Bogotá). Mi perfil combina una sólida base técnica en arquitectura de software escalable con habilidades en comunicación y comprensión de procesos de negocio. 
 
-Poseo una experiencia consolidada de más de dos años en roles de desarrollo de software, abarcando tanto el backend como el full-stack. Mi expertise se centra en el diseño e implementación de arquitecturas de software altamente escalables y resilientes, fundamentales para operar sistemas empresariales de misión crítica y alto rendimiento.
+🏆 **Finalista (Top 21)** en la Hackathon Nacional Oracle ONE + Alura Latam + NoCountry tras 130 horas de desarrollo continuo de software de alto impacto.
 
-## Dominio Tecnológico y Herramientas
-Lenguajes y Frameworks: Dominio avanzado de Java, utilizando extensivamente el framework Spring Boot para el desarrollo de microservicios y aplicaciones empresariales robustas. Experiencia en desarrollo frontend con Vaadin, lo que me permite construir interfaces de usuario complejas y modernas. Fuerte competencia en JavaScript, HTML5 y CSS3, con especial atención a la implementación de diseño responsive y optimización de la experiencia de usuario (UX). Conocimiento práctico de Python para tareas de automatización y procesamiento de datos.
-APIs y Comunicación: Amplia experiencia en el diseño, desarrollo y consumo de APIs RESTful, asegurando una comunicación eficiente y segura entre servicios.
-Bases de Datos: Manejo experto de sistemas de gestión de bases de datos relacionales (SQL), destacando PostgreSQL. Además, tengo experiencia en el trabajo con bases de datos no relacionales (NoSQL), específicamente MongoDB, para escenarios que requieren flexibilidad y escalabilidad de datos.
+---
 
-## Formación Complementaria y Certificaciones
-Mi compromiso con la actualización constante se evidencia con la reciente certificación obtenida a través del programa ONE (Oracle Next Education) en colaboración con Alura Latam, que culminó en marzo de 2026. Esta formación intensiva y especializada de 326 horas ha reforzado mis conocimientos en las últimas tendencias y metodologías de desarrollo de software.
+## 🛠️ Dominio Tecnológico y Herramientas
 
-## Habilidades
+* **Backend:** Java (17/21), Spring Boot 3, Python, FastAPI, Node.js, REST APIs, Principios SOLID, MVC, DAO.
+* **Frontend:** Vaadin 24, React, JavaScript (ES6+), HTML5, CSS3 / Tailwind CSS.
+* **Bases de Datos & Persistencia:** PostgreSQL, Supabase, MongoDB, MySQL, Flyway Migrations.
+* **Cloud & DevOps:** Oracle Cloud Infrastructure (OCI), Git, GitHub, Spring Boot Actuator, Jira (Scrum).
+
+### Badges Técnicos
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Vaadin](https://img.shields.io/badge/Vaadin-007ACC?style=for-the-badge&logo=vaadin&logoColor=white)](https://vaadin.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Vaadin](https://img.shields.io/badge/Vaadin-007ACC?style=for-the-badge&logo=vaadin&logoColor=white)](https://vaadin.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-
-**Especialista en arquitecturas escalables** con Spring Boot + Vaadin. Desarrollo sistemas empresariales robustos usando **MVC, REST APIs** y bases de datos relacionales Mysql, PostgreSQL y no relacioneles H2/MongoDB. Fullstack con **HTML5, CSS responsive, JavaScript** + **Python/Flask** para prototipos rápidos.
-
-**💬 Colaborador ágil** - Entrego proyectos a tiempo trabajando en equipo con comunicación efectiva y metodologías ágiles.
+---
 
 ## 🔥 Proyectos Destacados
 
-### 📚 LiterAlura — Catálogo Interactivo de Libros
-**[Repo](https://github.com/SamySierraDV/AluraLatam-Litealura)**
-**Java 17 + Spring Boot + Spring Data + PostgreSQL + Json**
-Catálogo de libros por consola que consume la API Gutendex en tiempo real.
+### 🧠 TechMind / LogiCore — Plataforma SaaS de Conocimiento e IA 🏆
+**[Repo](#) | [Demo en Vivo](#)**  
+**Spring Boot 3 + Vaadin 24 + Python (FastAPI) + PostgreSQL (Supabase) + Flyway**  
+Plataforma SaaS híbrida impulsada por Inteligencia Artificial diseñada para la estructuración y documentación inteligente de proyectos técnicos mediante grafos y flujos conversacionales.
+- 🏆 **Top 21 Finalista** en la Hackathon Oracle ONE + Alura + NoCountry (Team 13 | 130 horas de desarrollo).
+- ⚙️ **Arquitectura Híbrida:** Microservicio backend principal en Spring Boot 3 integrado con servicio de ML/IA en FastAPI (Python).
+- 💾 **Persistencia e Infraestructura:** Modelado en PostgreSQL sobre Supabase gestionado con migraciones Flyway para garantizar la integridad de chats de IA y workflows.
+- 🎨 **UI Reactiva:** Interfaz construida en Vaadin 24 optimizada para la interacción con agentes conversacionales.
 
-**Funcionalidades:**
-- 🔍 Búsqueda de libros por título vía API externa
-- 💾 Persistencia con Spring Data JPA + PostgreSQL
-- 📋 7 opciones de interacción: listar, filtrar por idioma/año/autor
-- 🌍 Filtrado por idioma y estadísticas de colección
-- 👥 Listado de autores únicos y vivos por período
-- ⚙️ Parseo JSON con Jackson | Arquitectura MVC limpia
+---
 
-**Challenge Oracle Next Education (ONE) G9 — Alura Latam**
+### 💼 Sistema de Nómina Empresarial ⭐
+**[Repo](https://github.com/tuusuario/nomina-spring-vaadin)**  
+**Spring Boot + Vaadin + MongoDB**  
+Automatiza salarios, devengados y deducciones para **100+ empleados/mes**.
+- 🚀 **Reducción del 60%** en el tiempo de procesamiento manual de nóminas.
+- 📊 Generación automatizada de reportes en PDF/Excel e integración de APIs REST seguras.
 
-### 💱 Conversor de Monedas — Challenge ONE
-**[Repo](https://github.com/SamySierraDV/AluraLatam-Conversor-de-monedas.git)**
-**Java 17 + HttpClient + JSON** — Conversión en tiempo real USD ↔ ARS, BRL, COP.
-Historial exportado a JSON | Consumo de API externa | Challenge Oracle Next Education.
+---
+
+### 📦 Sistema de Gestión de Inventarios (IMS)
+**[Demo](https://drive.google.com/file/d/1Jj_F61ZkpoAZk0AydAcqblcf-Ybs0su7/view?usp=drive_link)**  
+**Java + Spring Boot + Vaadin + MongoDB**  
+Sistema integral para la optimización y control de existencias en tiempo real.
+- 🛠️ Implementación de patrones **MVC** y **DAO** para una separación limpia de responsabilidades.
+- 🔍 Monitoreo de salud del sistema con **Spring Boot Actuator**.
+
+---
 
 ### 💬 Foro Alura — API REST
-**[Repo](https://github.com/SamySierraDV/AluraLatam-ForoHub-Challenge-Alura.git)**
-**Spring Boot + Spring Security + JWT + MySQL** — CRUD completo de tópicos con autenticación.
-BCrypt passwords | Token JWT | Flyway migrations | Challenge ONE G9 Backend.
-
-### 🎡 Juego de Amigo Secreto
-**[Demo](https://samysierradv.github.io/Juego-Amigo-Secreto-JS/)**
-· **[Repo](https://github.com/SamySierraDV/Juego-Amigo-Secreto-JS)**
-**Vanilla JS + Canvas 2D + CSS3** — Ruleta animada con easing suave para sorteos grupales.
-Sin dependencias | Responsive | Validaciones | Colores dinámicos | Challenge ONE Alura Latam.
-
-### 🌐 Batatabit — Landing Page
-**[Demo](https://samysierradv.github.io/BatatabitProyect/)**
-**HTML5 + CSS3 — Mobile First** — Landing de exchange de criptomonedas.
-Diseño responsive | CSS variables | HTML semántico | Desplegado en GitHub Pages.
-
-### 💼 **Sistema Nómina Empresarial** ⭐
-**[Repo](https://github.com/tuusuario/nomina-spring-vaadin)**  
-**Spring Boot + Vaadin + MongoDB** - Automatiza salarios/devengados para **100+ empleados/mes**.  
-**Reducción 80% tiempo cálculos** | Reportes PDF/Excel | APIs REST seguras.
-
-### 🏢 *📦 Sistema de Gestión de Inventarios (Inventory Management System) Vaadin + MongoDB**
-**[Demo](https://drive.google.com/file/d/1Jj_F61ZkpoAZk0AydAcqblcf-Ybs0su7/view?usp=drive_link)**  
-Sistema integral desarrollado para la optimización y control de existencias, diseñado bajo una arquitectura robusta y escalable que permite la gestión eficiente de productos, proveedores y movimientos de inventario.
-Características Principales
-- Gestión CRUD Completa: Control total sobre productos, categorías y proveedores.
-- Control de Stock en Tiempo Real: Seguimiento automatizado de entradas y salidas de mercancía.
-- Arquitectura Profesional: Implementación basada en el patrón de diseño MVC (Modelo-Vista-Controlador) y DAO (Data Access Object) para asegurar la separación de responsabilidades y facilidad de mantenimiento.
-- Monitoreo Avanzado: Integración de Spring Boot Actuator para el seguimiento de métricas, salud del sistema y rendimiento en tiempo real.
-- Interfaz de Usuario Moderna: Desarrollada con Vaadin, ofreciendo una experiencia de usuario (UX) fluida y profesional directamente desde Java.
-
-### ⚡ **API REST Laravel + Python**
-Microservicios para e-commerce. **MVC puro** | Testing 95% coverage.
+**[Repo](https://github.com/SamySierraDV/AluraLatam-ForoHub-Challenge-Alura.git)**  
+**Spring Boot + Spring Security + JWT + MySQL + Flyway**  
+API RESTful para la gestión de un foro de discusión con autenticación segura, encriptación BCrypt y control de versiones de base de datos.
 
 ---
-## 📈 Estadísticas GitHub
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SamySierraDV" alt="GitHub Streak" /></a>
 
-**¡Hablemos de código!** 🚀
+### 📚 LiterAlura — Catálogo Interactivo de Libros
+**[Repo](https://github.com/SamySierraDV/AluraLatam-Litealura)**  
+**Java 17 + Spring Boot + Spring Data JPA + PostgreSQL + Jackson**  
+Consumo en tiempo real de la API externa Gutendex para la gestión, filtrado y almacenamiento relacional de libros y autores.
+
 ---
-*Última actualización: Mayo 10 2026*
+
+### 💱 Conversor de Monedas
+**[Repo](https://github.com/SamySierraDV/AluraLatam-Conversor-de-monedas.git)**  
+**Java 17 + HttpClient + JSON** — Conversión de divisas en tiempo real (USD, COP, ARS, BRL) con exportación de historial.
+
+---
+
+## 📜 Formación y Certificaciones
+
+- **Ingeniería de Sistemas** — Universidad Central (2021 – Presente)
+- **Oracle Cloud Infrastructure (OCI) Foundations Associate** — Oracle (2026 – 2028)
+- **Especialización Backend (326 horas)** — Oracle Next Education (ONE) + Alura Latam (2026)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SamySierraDV&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+*Última actualización: Septiembre 2026*
